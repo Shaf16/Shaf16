@@ -8,7 +8,7 @@ In today's interconnected world, the need for cybersecurity professionals has ne
 While I may be new to the professional realm, my dedication to mastering cybersecurity principles and technologies, and drive to protect digital landscapes from emerging threats knows no bounds. My GitHub serves as a dynamic portfolio, showcasing my projects, skills, and ongoing journey into the world of cybersecurity.
 
 # Projects:
-- [Failed RDP logs to IP geolocation information using Azure Sentinel]
+- [Failed RDP logs to IP geolocation information using Azure Sentinel](https://github.com/Shaf16/Azure-Sentinel-SIEM)
 
 
 # Certifications:
