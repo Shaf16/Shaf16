@@ -10,8 +10,6 @@ While I may be new to the professional realm, my dedication to mastering cyberse
 # Projects:
 - [Failed RDP logs to IP geolocation information using Azure Sentinel]
 
-# Skills:
-
 
 # Certifications:
 <a href="https://www.credly.com/badges/5ea7b888-aadd-4787-9f64-7f31855c7b34/linked_in?t=sa93eh"><img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" alt="CompTIA Security+" width="100" /></a>
