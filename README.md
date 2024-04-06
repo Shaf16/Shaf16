@@ -15,6 +15,9 @@ While I may be new to the professional realm, my dedication to mastering cyberse
 <a href="https://www.credly.com/badges/5ea7b888-aadd-4787-9f64-7f31855c7b34/linked_in?t=sa93eh"><img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" alt="CompTIA Security+" width="100" /></a>
 <a href="https://www.credly.com/badges/c166489d-b0a9-4d0b-be56-588a17a40595/linked_in?t=s44d1p"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png" alt="Google Cybersecurity Certificate" width="100" /></a>
 
+# Connect with Me:
+<a href="https://www.linkedin.com/in/shafquat-hossain/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="75" /></a>
+
 <!--
 **Shaf16/Shaf16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
